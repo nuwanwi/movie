@@ -10,8 +10,8 @@
   
 ## General description about the movie application 
   
-This appication is developed using React Front end librualry and styled using googles's Material design which provides powerfull features to the whole application. 
-State is managed using Redux and Redux-thunk using bellow architecture.
+This application is developed using React Front end library and styled using google's Material design which provides powerful features to the whole application. 
+State is managed using Redux and Redux-thunk using the below architecture.
 
 01. Actions ---> src/redux/actions
 02. Reducers ---> src/redux/reducers
@@ -22,7 +22,7 @@ API calls have been invoked using Redux Dispatures which provides better control
  
 ## Testing 
  
-  Testing framework - React testing framework
+  Testing framework - React testing framework - npm test or yarn test
   
   
   
